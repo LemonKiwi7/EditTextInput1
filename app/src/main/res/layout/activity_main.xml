@@ -35,7 +35,7 @@
             android:layout_below="@id/edtMsg"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="30dp"
-            android:text="ตกลง"/>
+            android:text="OK"/>
 
         <TextView
             android:id="@+id/txtV2"
